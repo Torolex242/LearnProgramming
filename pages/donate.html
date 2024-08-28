@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="donatePage">Pagina de Donații</title>
+       <link rel="stylesheet" href="donate.css">
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V1ED505G3L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V1ED505G3L');
+</script>
+</head>
+<body>
+    <header>
+        <div class="logo" data-i18n="siteName">Numele Site-ului</div>
+    <nav>
+        <ul>
+            <li><a href="/index.html" data-i18n="home">Acasă</a></li>
+                <li><a href="#" data-i18n="about">Despre</a></li>
+                <li><a href="/pages/donate.html" data-i18n="donate">Donează</a></li>
+                <li><a href="#" data-i18n="codeCompiler">Compilator de cod</a></li>
+                <li><a href="#" data-i18n="contact">Contactează-ne</a></li>
+        </ul>
+    </nav>
+    <div class="auth-lang-container">
+        <button id="authButton" class="cta-button" data-i18n="login">Autentificare</button>
+        <select id="langSelect" class="lang-select">
+            <option value="en">English</option>
+            <option value="it">Italiano</option>
+            <option value="ro">Română</option>
+        </select>
+    </div>
+    </header>
+
+    <main>
+        <main>
+    <div class="donate-content">
+        <h1 class="donate-title" data-i18n="donateTitle">Donează pentru a susține proiectul nostru</h1>
+        <p class="donate-description" data-i18n="donateDescription">Ajută-ne să continuăm să oferim resurse educaționale gratuite pentru toți.</p>
+        <div class="donate-options">
+            <div class="donate-option">
+                <h3 data-i18n="donateOption1Title">PayPal</h3>
+                <p data-i18n="donateOption1Description">Susține-ne cu o singură donație</p>
+                <a href="https://paypal.me/catax24?country.x=IT&locale.x=en_US" class="donate-button" data-i18n="donateButton">Donează acum</a>
+            </div>
+            <div class="donate-option">
+                <h3 data-i18n="donateOption2Title">Revolut</h3>
+                <p data-i18n="donateOption1Description">Susține-ne cu o singură donație</p>
+                <p>ID Revolut: @cata6h0</p>
+                <a href="https://revolut.me/cata6h0" class="donate-button" data-i18n="donateButton">Doneaza acum</a>
+            </div>
+        </div>
+    </div>
+</main>
+    </main>
+
+    <footer>
+        <!-- Adăugați un footer dacă este necesar -->
+    </footer>
+
+    <!-- Includeți aceleași scripturi ca în index.html -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/i18next/21.6.16/i18next.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-i18next/1.2.1/jquery-i18next.min.js"></script>
+    <script src="../script.js"></script>
+     <script src="/custom_js/translate.js"></script>
+</body>
+</html>

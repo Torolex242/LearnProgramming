@@ -1,0 +1,52 @@
+[25-Aug-2024 18:14:45 UTC] PHP Warning:  Undefined array key "available_ides" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[25-Aug-2024 18:14:45 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[25-Aug-2024 18:14:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[25-Aug-2024 18:14:45 UTC] PHP Warning:  Undefined array key "hints" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[25-Aug-2024 18:14:45 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[25-Aug-2024 18:14:45 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 190
+[26-Aug-2024 07:04:52 UTC] PHP Warning:  Undefined array key "available_ides" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 07:04:52 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 07:04:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 07:04:52 UTC] PHP Warning:  Undefined array key "hints" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 07:04:52 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 07:04:52 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 190
+[26-Aug-2024 13:42:46 UTC] PHP Warning:  Undefined array key "available_ides" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:42:46 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:42:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:42:46 UTC] PHP Warning:  Undefined array key "hints" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 13:42:46 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 13:42:46 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 190
+[26-Aug-2024 13:55:17 UTC] PHP Warning:  Undefined array key "available_ides" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:55:17 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:55:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:55:17 UTC] PHP Warning:  Undefined array key "hints" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 13:55:17 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 13:55:17 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 190
+[26-Aug-2024 13:56:12 UTC] PHP Warning:  Undefined array key "available_ides" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:56:12 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:56:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 13:56:12 UTC] PHP Warning:  Undefined array key "hints" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 13:56:12 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 13:56:12 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 190
+[26-Aug-2024 14:34:51 UTC] PHP Warning:  Undefined array key "available_ides" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 14:34:51 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 14:34:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 110
+[26-Aug-2024 14:34:51 UTC] PHP Warning:  Undefined array key "hints" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 14:34:51 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 179
+[26-Aug-2024 14:34:51 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 190
+[26-Aug-2024 14:36:53 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 193
+[26-Aug-2024 15:02:46 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 193
+[26-Aug-2024 15:03:00 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 193
+[26-Aug-2024 15:11:05 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 247
+[26-Aug-2024 15:30:32 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 250
+[26-Aug-2024 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCourseDetails() in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 21
+[26-Aug-2024 15:59:23 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 255
+[26-Aug-2024 15:59:36 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 255
+[26-Aug-2024 16:04:04 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 262
+[27-Aug-2024 07:03:25 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 262
+[27-Aug-2024 07:30:51 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 262
+[27-Aug-2024 07:36:35 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 262
+[27-Aug-2024 07:43:12 UTC] PHP Warning:  Undefined array key "expected_code" in /home/u786278366/domains/learnprogrammingfrom0.com/public_html/user/course.php on line 262

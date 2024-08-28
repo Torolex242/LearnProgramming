@@ -1,0 +1,18 @@
+[2024-08-20 18:59:04] Script started
+[2024-08-20 18:59:04] Received data: {"name":"wegweg","email":"awergawerg@gmail.com","message":"waegwaeg"}
+[2024-08-20 18:59:04] Database insert successful
+[2024-08-20 18:59:05] Mail send result: Success
+[2024-08-20 18:59:05] Sending response: {"success":true,"message":"Mesajul a fost trimis cu succes."}
+[2024-08-20 18:59:05] Script ended
+[2024-08-20 19:01:02] Script started
+[2024-08-20 19:01:02] Received data: {"name":"aergherh","email":"esrherh@gmail.com","message":"aweg"}
+[2024-08-20 19:01:02] Database insert successful
+[2024-08-20 19:01:02] Mail send result: Success
+[2024-08-20 19:01:02] Sending response: {"success":true,"message":"Mesajul a fost trimis cu succes."}
+[2024-08-20 19:01:02] Script ended
+[2024-08-20 19:03:59] Script started
+[2024-08-20 19:03:59] Received data: {"name":"erhtserth","email":"sterhserth@gmail.com","message":"wagarh\r\n"}
+[2024-08-20 19:03:59] Database insert successful
+[2024-08-20 19:03:59] Mail send result: Success
+[2024-08-20 19:03:59] Sending response: {"success":true,"message":"Ok"}
+[2024-08-20 19:03:59] Script ended
